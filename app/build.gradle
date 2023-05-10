@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId "com.ui.example"  // defining app id
         minSdkVersion 23 //minimum sdk version
-        targetSdkVersion 31
+        targetSdkVersion 32
         versionCode 3
         versionName "1.1"
 
