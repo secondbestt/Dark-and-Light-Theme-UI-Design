@@ -4,7 +4,7 @@ plugins {
 
 android {
     compileSdkVersion 31
-    buildToolsVersion "30.0.7" 
+    buildToolsVersion "30.0.8" 
 
     defaultConfig {
         applicationId "com.ui.example"  // defining app id
